@@ -18,8 +18,7 @@ Part 2:
 https://drive.google.com/drive/folders/1Af_V8uY-OAtW4O_L_doSlPsmpueZdd11?usp=sharing
 
 ## Note
-The code is splitted in multiple Jupyter Notebooks, we are currently refining it to make the code cleaner and more readable.
+### The code is splitted in multiple Jupyter Notebooks, we are currently refining it to make the code cleaner and more readable.
 
 ## Papers
-- Sebastianelli, A., Nowakowski, A., Puglisi, E., Del Rosso, M. P., Mifdal, J., Pirri, F., ... & Ullo, S. L. (2021). Sentinel-1 and Sentinel-2 Spatio-Temporal Data Fusion for Clouds Removal. arXiv preprint arXiv:2106.12226. https://arxiv.org/abs/2106.12226
-- 
+- Sebastianelli, A., Nowakowski, A., Puglisi, E., Del Rosso, M. P., Mifdal, J., Pirri, F., ... & Ullo, S. L. (2021). Sentinel-1 and Sentinel-2 Spatio-Temporal Data Fusion for Clouds Removal. arXiv preprint arXiv:2106.12226. https://arxiv.org/abs/2106.12226 
